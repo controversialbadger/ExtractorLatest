@@ -1,0 +1,1 @@
+# This file makes the email_extractor directory a Python package
