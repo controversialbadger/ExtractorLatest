@@ -1,0 +1,7 @@
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+lxml>=4.6.3
+playwright>=1.12.0
+tenacity>=7.0.0
+tldextract>=3.1.0
+dnspython>=2.1.0
